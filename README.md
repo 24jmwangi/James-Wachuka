@@ -1,9 +1,6 @@
-<h3 align="center">
-Welcome to My profile
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
 <p align="center">
-<a href="https://github.com/James-Wachuka-James-Wachuka"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+James+Wachuka;I+am+a+Data+Engineer,;Business+intelligence+enthusiast"></a>
+<a href="https://github.com/James-Wachuka-James-Wachuka"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+James+Wachuka;I+am+a+Data+Engineer;Business+intelligence+enthusiast"></a>
 </p>
 
 <div align="center">
@@ -46,9 +43,11 @@ Mail me at jewachu26@gmail.com or through my socials
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=James-Wachuka&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=James-Wachuka&theme=holi-theme">
 </p>
+-->
 
