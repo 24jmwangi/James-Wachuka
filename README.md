@@ -10,7 +10,7 @@
   
 🌱 I’m learning Cloud and Bigdata technologies
 
-🌐 [@lux_academy](https://twitter.com/lux_academy)
+🌐[@lux_academy](https://twitter.com/lux_academy) [@DSEAfrica](https://twitter.com/DSEAfrica)
 
 
 📫 lets talk:  
