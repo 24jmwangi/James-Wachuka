@@ -10,7 +10,7 @@
   
 🌱 I’m learning Cloud and Bigdata technologies
 
-🌐 Would like to be part of a data engineering community.
+🌐 ![@Lux_academy](https://twitter.com/lux_academy
 
 
 📫 lets talk:  
