@@ -27,27 +27,29 @@ Mail me at jewachu26@gmail.com or through my socials
 <Br>
 <h1>Tech stack</h1>
 <Br>
- 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)|![](https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white)|![](https://img.shields.io/badge/tableau-D00000?style=for-the-badge&logo=tableau&logoColor=white)|![](https://img.shields.io/badge/mysql-F37626.svg?&style=for-the-badge&logo=mysql&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/airflow-342B029.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)|![](https://img.shields.io/badge/R-2C2D72?style=for-the-badge&logo=R&logoColor=white)|![](https://img.shields.io/badge/docker-777BB4?style=for-the-badge&logo=docker&logoColor=white)|![](https://img.shields.io/badge/kafka-239120?style=for-the-badge&logo=apache-kafka&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="30"/> <img src="https://img.shields.io/badge/spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/tableau-D00000?style=for-the-badge&logo=tableau&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/mysql-F37626.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/airflow-342B029.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/R-2C2D72?style=for-the-badge&logo=R&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/docker-777BB4?style=for-the-badge&logo=docker&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/kafka-239120?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30"/>
   
 
 <Br>
 <Br>
 
+<!--
 ![Snake animation](https://github.com/James-Wachuka/James-Wachuka/blob/output/github-contribution-grid-snake.svg)
+-->
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&layout=compact&theme=github_dark&langs_count=10">
 <br>
 <br>
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=James-Wachuka&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+-->
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=James-Wachuka&theme=holi-theme">
 </p>
--->
 
