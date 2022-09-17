@@ -42,7 +42,7 @@ Mail me at jewachu26@gmail.com or through my socials
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&layout=compact&theme=github_dark&langs_count=10" exclude_repo="dta_warehouse_example">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&layout=compact&theme=github_dark&langs_count=10">
 <br>
 <br>
 <!--
