@@ -20,9 +20,8 @@ Mail me at jewachu26@gmail.com or through my socials
 
 <h1 align="center">Skills</h1>
 <Br>
-  
+
 ![](https://img.shields.io/badge/Data%20Modelling-purple?style=for-the-badge) ![](https://img.shields.io/badge/ETL-data%20warehousing-blue?style=for-the-badge) ![](https://img.shields.io/badge/data%20viz-green?style=for-the-badge) ![](https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge)
-  
 <Br>
 <Br>
 <h1>Tech stack</h1>
