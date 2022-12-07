@@ -31,7 +31,7 @@ Mail me at jewachu26@gmail.com or through my socials
 <img src="https://img.shields.io/badge/airflow-342B029.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/R-2C2D72?style=for-the-badge&logo=R&logoColor=white" height="30"/> 
 <img src="https://img.shields.io/badge/docker-777BB4?style=for-the-badge&logo=docker&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/kafka-239120?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/aws-FFD43B?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/powerbi-D00000?style=for-the-badge&logo=powerbi&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Talend-F7931E?style=for-the-badge&logo=talend&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/gcp-2C2D72?style=for-the-badge&logo=gcp&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Talend-F7931E?style=for-the-badge&logo=talend&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/gcp-2C2D72?style=for-the-badge&logo=google-cloud&logoColor=white" height="30"/>
 
 <Br>
 <Br>
