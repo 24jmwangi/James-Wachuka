@@ -10,7 +10,9 @@
   
 🌱 I’m learning Cloud and Bigdata technologies
 
-🌐[@lux_academy](https://twitter.com/lux_academy) [@DSEAfrica](https://twitter.com/DSEAfrica)
+I am also writing about my journey on [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
+
+🌐[@lux_academy](https://twitter.com/lux_academy) [@DSEAfrica](https://twitter.com/DSEAfrica) [@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) 
 
 
 📫 lets talk:  
@@ -42,13 +44,12 @@ Mail me at jewachu26@gmail.com or through my socials
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&exclude_repo=dta_warehouse_example,speeddating_R,shell_,R_examples,&layout=compact&theme=github_dark&langs_count=10">
-<br>
-<br>
+-->
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=James-Wachuka&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 -->
-<br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=James-Wachuka&theme=holi-theme">
 </p>
