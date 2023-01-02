@@ -41,16 +41,18 @@ Mail me at jewachu26@gmail.com or through my socials
 <!--
 ![Snake animation](https://github.com/James-Wachuka/James-Wachuka/blob/output/github-contribution-grid-snake.svg)
 -->
-
+<!--
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
+-->
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Wachuka&exclude_repo=dta_warehouse_example,speeddating_R,shell_,R_examples,&layout=compact&theme=github_dark&langs_count=10">
 -->
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=James-Wachuka&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 -->
-<br>
+<!--
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=James-Wachuka&theme=holi-theme">
+-->
 </p>
 
