@@ -10,9 +10,7 @@
   
 🌱 I’m learning Cloud and Bigdata technologies
 
-I am also writing about my journey on 
-
-[![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
+I am also writing about my journey on [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
 
 🌐[@lux_academy](https://twitter.com/lux_academy) [@DSEAfrica](https://twitter.com/DSEAfrica) [@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) 
 
