@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/wachuka_james"
-          template: "[title](url)<p>"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
           max_post_count: 3
