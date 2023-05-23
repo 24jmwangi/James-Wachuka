@@ -40,7 +40,7 @@ Mail me at jewachu26@gmail.com or through my socials
 <h1>Latest Articles</h1>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- DEVTO:TART --><tr><td>kafka: event driven microservices</td><td>https://dev.to/wachuka_james/kafka-event-driven-microservices-1mei</td></tr><tr><td>kafka:distributed task queue</td><td>https://dev.to/wachuka_james/kafkadistributed-task-queue-1175</td></tr><tr><td>Building a Weather Data Pipeline with PySpark, Prefect, and Google Cloud</td><td>https://dev.to/wachuka_james/building-a-weather-data-pipeline-with-pyspark-prefect-and-google-cloud-19k8</td></tr><!-- DEVTO:END -->
+  <!-- DEVTO:START --><tr><td>kafka: event driven microservices</td><td>https://dev.to/wachuka_james/kafka-event-driven-microservices-1mei</td></tr><tr><td>kafka:distributed task queue</td><td>https://dev.to/wachuka_james/kafkadistributed-task-queue-1175</td></tr><tr><td>Building a Weather Data Pipeline with PySpark, Prefect, and Google Cloud</td><td>https://dev.to/wachuka_james/building-a-weather-data-pipeline-with-pyspark-prefect-and-google-cloud-19k8</td></tr><!-- DEVTO:END -->
 </table>
 <br>
 <!--
