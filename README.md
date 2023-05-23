@@ -38,7 +38,7 @@ Mail me at jewachu26@gmail.com or through my socials
 <Br>
 <Br>
 <h1>latest Blog posts</h1>
-<!-- BLOG-POST-LIST:START -->kafka: event driven microserviceshttps://dev.to/wachuka_james/kafka-event-driven-microservices-1mei<p>kafka:distributed task queuehttps://dev.to/wachuka_james/kafkadistributed-task-queue-1175<p>Building a Weather Data Pipeline with PySpark, Prefect, and Google Cloudhttps://dev.to/wachuka_james/building-a-weather-data-pipeline-with-pyspark-prefect-and-google-cloud-19k8<p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[title](url)<p>[title](url)<p>[title](url)<p><!-- BLOG-POST-LIST:END -->
 <br>
 <!--
 ![Snake animation](https://github.com/James-Wachuka/James-Wachuka/blob/output/github-contribution-grid-snake.svg)
