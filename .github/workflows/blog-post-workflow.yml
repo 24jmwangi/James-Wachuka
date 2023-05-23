@@ -18,3 +18,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/wachuka_james"
           template: "[$title](&url)&newline"
+          max_post_count: 3
