@@ -38,7 +38,10 @@ Mail me at jewachu26@gmail.com or through my socials
 <Br>
 <Br>
 <h1>latest Blog posts</h1>
-<!-- BLOG-POST-LIST:START -->[title](url)<p>[title](url)<p>[title](url)<p><!-- BLOG-POST-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
 <br>
 <!--
 ![Snake animation](https://github.com/James-Wachuka/James-Wachuka/blob/output/github-contribution-grid-snake.svg)
