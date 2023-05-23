@@ -37,7 +37,7 @@ Mail me at jewachu26@gmail.com or through my socials
 
 <Br>
 <Br>
-  <h1>latest Blog posts</h1>
+ ### latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br>
