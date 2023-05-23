@@ -38,13 +38,7 @@ Mail me at jewachu26@gmail.com or through my socials
 <Br>
 <Br>
 <h1>latest Blog posts</h1>
-<!-- BLOG-POST-LIST:START -->
-- [kafka: event driven microservices](https://dev.to/wachuka_james/kafka-event-driven-microservices-1mei)
-- [kafka:distributed task queue](https://dev.to/wachuka_james/kafkadistributed-task-queue-1175)
-- [Building a Weather Data Pipeline with PySpark, Prefect, and Google Cloud](https://dev.to/wachuka_james/building-a-weather-data-pipeline-with-pyspark-prefect-and-google-cloud-19k8)
-- [prefect vs apache airflow](https://dev.to/wachuka_james/prefect-vs-apache-airflow-kh7)
-- [BigQuery: Creating a pipeline between MySql and BigQuery using airflow](https://dev.to/wachuka_james/bigquery-creating-a-pipeline-between-mysql-and-bigquery-using-airflow-5dc7)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[kafka: event driven microservices](&url)&newline[kafka:distributed task queue](&url)&newline[Building a Weather Data Pipeline with PySpark, Prefect, and Google Cloud](&url)&newline<!-- BLOG-POST-LIST:END -->
 <br>
 <!--
 ![Snake animation](https://github.com/James-Wachuka/James-Wachuka/blob/output/github-contribution-grid-snake.svg)
