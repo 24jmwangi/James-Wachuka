@@ -10,7 +10,7 @@
   
 🌱 I’m learning dataOps
 
-I also write about data engineering on [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
+I also write about data engineering on [![](https://img.shields.io/badge/-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
 
 🌐[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://twitter.com/pawencommunity?t=pNJ4uO48OsGWuJylWvGXJg&s=09)
 
