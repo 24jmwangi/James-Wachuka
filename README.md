@@ -40,7 +40,7 @@ Mail me at jewachu26@gmail.com or through my socials
 <h1>Latest Articles</h1>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- DEVTO:START --><tr><td>Using pyspark to stream data from coingecko API and visualise using dash</td><td>https://dev.to/wachuka_james/using-pyspark-to-stream-data-from-coingecko-api-and-visualise-using-dash-5g43</td></tr><tr><td>kafka: event driven microservices</td><td>https://dev.to/wachuka_james/kafka-event-driven-microservices-1mei</td></tr><tr><td>kafka: distributed task queue</td><td>https://dev.to/wachuka_james/kafkadistributed-task-queue-1175</td></tr><!-- DEVTO:END -->
+  <!-- DEVTO:START --><tr><td>Debugging Python Data Pipelines</td><td>https://dev.to/wachuka_james/debugging-python-data-pipelines-a-step-by-step-guide-11g7</td></tr><tr><td>Using pyspark to stream data from coingecko API and visualise using dash</td><td>https://dev.to/wachuka_james/using-pyspark-to-stream-data-from-coingecko-api-and-visualise-using-dash-5g43</td></tr><tr><td>kafka: event driven microservices</td><td>https://dev.to/wachuka_james/kafka-event-driven-microservices-1mei</td></tr><!-- DEVTO:END -->
 </table>
 <br>
 <!--
