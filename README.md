@@ -6,35 +6,44 @@
 <div align="center">
   
 # About me
-👨🏽‍💻  I’m currently building data pipelines and integrating with cloud
+I am a passionate and skilled data engineer 👨‍💻 with three years of experience in the field. My expertise lies in using tools like GCP, Python, Spark, SQL, Talend Open Studio, Tableau, Power BI, Docker, Terraform , dbt, and Airflow . I have successfully designed and developed robust data pipelines and architectures, ensuring data integrity and accuracy ✔️. With my expertise in cloud computing platforms like GCP ☁️, I have implemented scalable solutions. I love transforming complex data sets into actionable insights using visualization tools like Tableau and Power BI 📈. I have also mastered containerization 📦, infrastructure provisioning ⚙️, and workflow orchestration 🎼. I am driven to deliver excellence in data engineering and thrive on pushing boundaries 💪. [request resume](https://docs.google.com/document/d/1QbGSLxDr8F8fpmapiMGxmzFTji79Wu2c/edit?usp=sharing&ouid=113235210761517280646&rtpof=true&sd=true)
   
-🌱 I’m learning dataOps
 
 I also write about data engineering on [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
 
-🌐[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://twitter.com/pawencommunity?t=pNJ4uO48OsGWuJylWvGXJg&s=09)
+🌐Communities[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://twitter.com/pawencommunity?t=pNJ4uO48OsGWuJylWvGXJg&s=09)
 
 
 📫 lets talk:  
 Mail me at jewachu26@gmail.com or through my socials
-  
-[![twitter](https://img.shields.io/badge/twitter-12100E?logo=twitter&logoColor=blue)](https://twitter.com/Wachuka_James) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/james-wachuka-42769a1a0/)
 
-<h1 align="center">Skills</h1>
+[![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/Wachuka_James) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/james-wachuka-42769a1a0/)
+[![spotify](https://img.shields.io/badge/spotify-12100E?logo=spotify&logoColor=blue)](https://open.spotify.com/user/31ennshe5gknsax667ccnkovckmu?si=mkAXO7FFRPyWyWYhtg0J-g)
+
+
+<h1 align="left">Skills</h1>
 <Br>
+•	Data Modelling
+•	DataOps
+•	Data versioning and source control
+•	Cloud data engineering
+•	Extract Transform Load (ETL)
+•	Data Warehousing
+•	Data stream and real time processing
+•	Orchestration & Workflow automation
+•	Data governance and quality management
 
-![](https://img.shields.io/badge/Data%20Modelling-purple?style=for-the-badge) ![](https://img.shields.io/badge/ETL-data%20warehousing-blue?style=for-the-badge) ![](https://img.shields.io/badge/data%20viz-green?style=for-the-badge) ![](https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge)
 <Br>
 <Br>
 <h1>Tech stack</h1>
 <Br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="30"/> <img src="https://img.shields.io/badge/SQL-F7931E?style=for-the-badge&logo=sql&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/tableau-D00000?style=for-the-badge&logo=tableau&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/mysql-F37626.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/airflow-342B029.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/DBT-2C2D72?style=for-the-badge&logo=dbt&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/docker-777BB4?style=for-the-badge&logo=docker&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/kafka-239120?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30"/>
- <img src="https://img.shields.io/badge/gcp-2C2D72?style=for-the-badge&logo=google-cloud&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/powerbi-D00000?style=for-the-badge&logo=powerbi&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Talend-F7931E?style=for-the-badge&logo=talend&logoColor=white" height="30"/> 
-
+<img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=darkgreen" height="25"/> <img src="https://img.shields.io/badge/SQL-F7931E?style=for-the-badge&logo=sql&logoColor=white" height="25"/>  <img src="https://img.shields.io/badge/spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/tableau-D00000?style=for-the-badge&logo=tableau&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/mysql-F37626.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/airflow-342B029.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/DBT-2C2D72?style=for-the-badge&logo=dbt&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/docker-777BB4?style=for-the-badge&logo=docker&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/kafka-239120?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/gcp-2C2D72?style=for-the-badge&logo=google-cloud&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/powerbi-D00000?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Talend-F7931E?style=for-the-badge&logo=talend&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/prefect-342B029?style=for-the-badge&logo=prefect&logoColor=white" height="25"/> 
 <Br>
 <Br>
 <h1>Latest Articles</h1>
