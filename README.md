@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/James-Wachuka-James-Wachuka"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+James+Wachuka;I+am+a+Data+Engineer;Business+intelligence+enthusiast"></a>
+<a href="https://github.com/James-Wachuka-James-Wachuka"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+James+Wachuka;I+am+a+Data+Engineer"></a>
 </p>
 
 <div align="center">
@@ -11,11 +11,10 @@ I am a passionate and skilled data engineer 👨‍💻 with three years of expe
 
 I also write about data engineering on [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
 
-🌐Communities[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://twitter.com/pawencommunity?t=pNJ4uO48OsGWuJylWvGXJg&s=09)
+🌐**communities:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://twitter.com/pawencommunity?t=pNJ4uO48OsGWuJylWvGXJg&s=09)
 
 
-📫 lets talk:  
-Mail me at jewachu26@gmail.com or through my socials
+📫 **lets talk:** mail me at jewachu26@gmail.com or through my socials
 
 [![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/Wachuka_James) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/james-wachuka-42769a1a0/)
 [![spotify](https://img.shields.io/badge/spotify-12100E?logo=spotify&logoColor=blue)](https://open.spotify.com/user/31ennshe5gknsax667ccnkovckmu?si=mkAXO7FFRPyWyWYhtg0J-g)
