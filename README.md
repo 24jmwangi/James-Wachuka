@@ -21,7 +21,7 @@ Mail me at jewachu26@gmail.com or through my socials
 [![spotify](https://img.shields.io/badge/spotify-12100E?logo=spotify&logoColor=blue)](https://open.spotify.com/user/31ennshe5gknsax667ccnkovckmu?si=mkAXO7FFRPyWyWYhtg0J-g)
 
 
-<h1 align="left">Skills</h1>
+<h1 align="center">Skills</h1>
 <Br>
 •	Data Modelling
 •	DataOps
