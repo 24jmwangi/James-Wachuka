@@ -37,10 +37,10 @@ I also write about data engineering on [![](https://img.shields.io/badge/dev.to-
 <h1>Tech stack</h1>
 <Br>
 <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=darkgreen" height="25"/> <img src="https://img.shields.io/badge/SQL-F7931E?style=for-the-badge&logo=sql&logoColor=white" height="25"/>  <img src="https://img.shields.io/badge/spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/tableau-D00000?style=for-the-badge&logo=tableau&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/mysql-F37626.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/tableau-D00000?style=for-the-badge&logo=tableau&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/postgres-F37626.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/airflow-342B029.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/DBT-2C2D72?style=for-the-badge&logo=dbt&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/docker-777BB4?style=for-the-badge&logo=docker&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/kafka-239120?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/gcp-2C2D72?style=for-the-badge&logo=google-cloud&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/powerbi-D00000?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/gcp-2C2D72?style=for-the-badge&logo=google-cloud&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/terraform-000000?style=for-the-badge&logo=terraform&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/powerbi-D00000?style=for-the-badge&logo=powerbi&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Talend-F7931E?style=for-the-badge&logo=talend&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/prefect-342B029?style=for-the-badge&logo=prefect&logoColor=white" height="25"/> 
 <Br>
