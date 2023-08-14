@@ -16,7 +16,7 @@ I also write about data engineering on [![](https://img.shields.io/badge/dev.to-
 
 📫 **lets talk:** mail me at jewachu26@gmail.com or through my socials
 
-[![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/Wachuka_James) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/james-wachuka-42769a1a0/)
+[![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/Wachuka_James) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
 [![spotify](https://img.shields.io/badge/spotify-12100E?logo=spotify&logoColor=blue)](https://open.spotify.com/user/31ennshe5gknsax667ccnkovckmu?si=mkAXO7FFRPyWyWYhtg0J-g)
 
 
