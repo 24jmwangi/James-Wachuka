@@ -11,7 +11,7 @@ I am a passionate and skilled data engineer 👨‍💻 with three years of expe
 
 I also write about data engineering on [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
 
-🌐**communities:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://twitter.com/pawencommunity?t=pNJ4uO48OsGWuJylWvGXJg&s=09)
+🌐**communities:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@pawencommunity](https://www.techupafrica.org/tamp)
 
 
 📫 **lets talk:** mail me at jewachu26@gmail.com or through my socials
