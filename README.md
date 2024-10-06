@@ -6,12 +6,11 @@
 <div align="center">
   
 # About me
-I am a passionate and skilled data engineer 👨‍💻 with three years of experience in the field. My expertise lies in using tools like GCP, Python, Spark, SQL, Talend Open Studio, Tableau, Power BI, Docker, Terraform , dbt, and Airflow . I have successfully designed and developed robust data pipelines and architectures, ensuring data integrity and accuracy ✔️. With my expertise in cloud computing platforms like GCP ☁️, I have implemented scalable solutions. I love transforming complex data sets into actionable insights using visualization tools like Tableau and Power BI 📈. I have also mastered containerization 📦, infrastructure provisioning ⚙️, and workflow orchestration 🎼. I am driven to deliver excellence in data engineering and thrive on pushing boundaries 💪. [Request resume.](https://docs.google.com/document/d/1tY9nFiiJm5VRdF5J6Fum4ikPbgSQdHXT/edit?usp=sharing&ouid=113235210761517280646&rtpof=true&sd=true)
-  
+I am a data engineer.
 
-I also write about data engineering on [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
+I also write about data science [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/wachuka_james)
 
-🌐**communities:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
+🌐**find me here:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
 
 
 📫 **lets talk:** mail me at jewachu26@gmail.com or through my socials
