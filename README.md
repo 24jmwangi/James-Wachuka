@@ -12,8 +12,7 @@ I also write about data science on [![](https://img.shields.io/badge/dev.to-0A0A
 
 📫 **lets talk:** mail me at jewachu26@gmail.com or through my socials
 
-[![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/Wachuka_James) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
-[![spotify](https://img.shields.io/badge/spotify-12100E?logo=spotify&logoColor=blue)](https://open.spotify.com/user/31ennshe5gknsax667ccnkovckmu?si=mkAXO7FFRPyWyWYhtg0J-g)
+[![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/24mwangi) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
 
 
 <h1 align="center">Skills</h1>
