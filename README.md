@@ -43,7 +43,7 @@ I also write about data science on [![](https://img.shields.io/badge/dev.to-0A0A
 <h1>Latest Articles</h1>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- DEVTO:START --><tr><td>Running Transformations on BigQuery using dbt Cloud: step by step</td><td>https://dev.to/wachuka_james/running-transformations-on-bigquery-using-dbt-cloud-step-by-step-11bo</td></tr><tr><td>Debugging Python Data Pipelines</td><td>https://dev.to/wachuka_james/debugging-python-data-pipelines-a-step-by-step-guide-11g7</td></tr><tr><td>Using pyspark to stream data from coingecko API and visualise using dash</td><td>https://dev.to/wachuka_james/using-pyspark-to-stream-data-from-coingecko-api-and-visualise-using-dash-5g43</td></tr><!-- DEVTO:END -->
+  <!-- DEVTO:START --><tr><td>Bringing the Human Touch to Technical Writing in the AI Age</td><td>https://dev.to/wachuka_james/bringing-the-human-touch-to-technical-writing-in-the-ai-age-37o8</td></tr><tr><td>Running Transformations on BigQuery using dbt Cloud: step by step</td><td>https://dev.to/wachuka_james/running-transformations-on-bigquery-using-dbt-cloud-step-by-step-11bo</td></tr><tr><td>Debugging Python Data Pipelines</td><td>https://dev.to/wachuka_james/debugging-python-data-pipelines-a-step-by-step-guide-11g7</td></tr><!-- DEVTO:END -->
 </table>
 <br>
 <!--
