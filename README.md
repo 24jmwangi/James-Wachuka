@@ -12,7 +12,7 @@ My name is James Mwangi, I am a data engineer
 
 [![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/24mwangi) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
 <br>
-<h1>Tech stack</h1>
+<h1>Tech</h1>
 <Br>
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=black" height="26"/>  <img src="https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=black" height="26"/>
 <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/postgres-white.svg?&style=for-the-badge&logo=postgresql&logoColor=black" height="26"/>
@@ -22,7 +22,7 @@ My name is James Mwangi, I am a data engineer
 <img src="https://img.shields.io/badge/Talend-white?style=for-the-badge&logo=talend&logoColor=black" height="26"/> 
 <img src="https://img.shields.io/badge/prefect-white?style=for-the-badge&logo=prefect&logoColor=black" height="26"/> 
 <Br>
-<h1>Latest Articles</h1>
+<h1>Articles</h1>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- DEVTO:START --><tr><td>Running Transformations on BigQuery using dbt Cloud: step by step</td><td>https://dev.to/24mwangi/running-transformations-on-bigquery-using-dbt-cloud-step-by-step-11bo</td></tr><tr><td>Debugging Python Data Pipelines</td><td>https://dev.to/24mwangi/debugging-python-data-pipelines-a-step-by-step-guide-11g7</td></tr><tr><td>Using pyspark to stream data from coingecko API and visualise using dash</td><td>https://dev.to/24mwangi/using-pyspark-to-stream-data-from-coingecko-api-and-visualise-using-dash-5g43</td></tr><!-- DEVTO:END -->
