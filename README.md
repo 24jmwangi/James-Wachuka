@@ -1,22 +1,17 @@
 
 
 <div align="center">
-  
-# About me
-I am a data engineer 
+My name is James Mwangi, I am a data engineer 
 
-🛸**Discover my writing →** [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi)
+🛸 **Discover my writing →** [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi)
 
-🌐**Find me→:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
+🌐 **Find me→:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
 
 
 📫 **Lets talk:** mail me at 24jmwangi@gmail.com or through my socials
 
 [![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/24mwangi) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
-
-
-<Br>
-<Br>
+<br>
 <h1>Tech stack</h1>
 <Br>
 <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=black" height="26"/>  <img src="https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=black" height="26"/>
@@ -26,7 +21,6 @@ I am a data engineer
 <img src="https://img.shields.io/badge/gcp-white?style=for-the-badge&logo=google-cloud&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/terraform-white?style=for-the-badge&logo=terraform&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/powerbi-white?style=for-the-badge&logo=powerbi&logoColor=black" height="26"/>
 <img src="https://img.shields.io/badge/Talend-white?style=for-the-badge&logo=talend&logoColor=black" height="26"/> 
 <img src="https://img.shields.io/badge/prefect-white?style=for-the-badge&logo=prefect&logoColor=black" height="26"/> 
-<Br>
 <Br>
 <h1>Latest Articles</h1>
 <table>
